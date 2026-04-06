@@ -1,0 +1,14 @@
+﻿{
+  "exercises": [
+    {
+      "slug": "hello-world",
+      "title": "Hello World",
+      "assignedDate": "2026-04-06"
+    },
+    {
+      "slug": "find-max",
+      "title": "Find Max",
+      "assignedDate": "2026-04-07"
+    }
+  ]
+}
